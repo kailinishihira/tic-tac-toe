@@ -19,11 +19,6 @@ body {
   color: #FE9ECF;
 }
 
-.col-md-4 {
-  border: solid;
-  padding: 45px;
-}
-
 td {
   text-align: center;
   height: 200px;
