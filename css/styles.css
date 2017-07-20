@@ -1,5 +1,22 @@
 body {
   font-size: 60px;
+  font-family: 'Chewy', cursive;
+  background-image: url("../img/bg-stars.jpg");
+  background-repeat: repeat;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  font-family: 'Chewy', cursive;
+  color: #B21F3F;
+  /*background-image: url("../img/bg-stars.jpg");*/
+  /*background-repeat: repeat;*/
+}
+
+.jumbotron h1 {
+  font-size: 120px;
+  color: #FE9ECF;
 }
 
 .col-md-4 {
@@ -10,4 +27,14 @@ body {
 td {
   text-align: center;
   height: 200px;
+  background-color: white;
+}
+
+#play-again {
+  display: none;
+}
+
+.btn {
+  background-color: #FE9ECF;
+  color: #53B2F2;
 }
